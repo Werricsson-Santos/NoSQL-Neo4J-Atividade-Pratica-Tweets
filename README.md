@@ -24,3 +24,6 @@
 <div style="text-align: center">
     <image src="./assets/resposta-atividade2.png" alt="Imagem de grafos contendo o tweet mais retweetado com alguns desses retweets.">
 </div>
+
+
+<h5 style="text-align: center">Para visualizar o trabalho na integra acesse a página assets ou <a href="https://github.com/Werricsson-Santos/NoSQL-Neo4J-Atividade-Pratica-Tweets/blob/master/assets/Caderno%20de%20Resolucao%20de%20Atividade%20Pratica%20de%20NoSQL%20-%20Werricsson%20Santos.pdf">clique aqui</a> </h5>
